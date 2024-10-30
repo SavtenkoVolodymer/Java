@@ -1,0 +1,10 @@
+Select an option:
+1. Create Service
+2. Create Client
+3. Create Publication
+4. Create Subscription
+5. Read by key
+6. Update Client
+7. Update Subscription
+8. Delete by key
+0. Exit
